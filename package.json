@@ -1,0 +1,18 @@
+{
+  "name": "student-management-system",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Habeeb Alabi",
+  "license": "ISC",
+  "description": "This is a Student Management System",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+    
+  }
+}
